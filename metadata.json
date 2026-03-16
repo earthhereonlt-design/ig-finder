@@ -1,0 +1,5 @@
+{
+  "name": "IG Username Finder Bot",
+  "description": "A Telegram bot that uses AI to generate and Playwright to check available Instagram usernames.",
+  "requestFramePermissions": []
+}
